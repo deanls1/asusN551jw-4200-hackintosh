@@ -15,13 +15,13 @@
 截图：
 
 ![关于本机]
-(http://xc.deanlovesam.cn/1.png)
+![关于本机](http://xc.deanlovesam.cn/1.png)
 
 ![无线]
-(http://xc.deanlovesam.cn/2.png)
+![关于本机](http://xc.deanlovesam.cn/2.png)
 
 ![显示器]
-(http://xc.deanlovesam.cn/3.png)
+![关于本机](http://xc.deanlovesam.cn/3.png)
 
 ![磁盘]
-(http://xc.deanlovesam.cn/4.png)
+![关于本机](http://xc.deanlovesam.cn/4.png)
