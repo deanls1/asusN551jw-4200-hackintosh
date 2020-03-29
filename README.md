@@ -15,3 +15,8 @@
 截图：
 ![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
 
+![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
+
+![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
+
+![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
