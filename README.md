@@ -14,10 +14,10 @@
 以下是一些截
 截图：
 
-![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
+![关于本机](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
 
-![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
+![无线](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
 
-![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
+![显示器](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
 
-![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
+![磁盘](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
