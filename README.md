@@ -13,5 +13,5 @@
 
 以下是一些截
 截图：
-![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/屏幕快照 2020-03-29 上午12.00.40.png)
+![Alt text](https://github.com/deanls1/asusN551jw-4200-hackintosh/tree/master/screenshot/1.png)
 
